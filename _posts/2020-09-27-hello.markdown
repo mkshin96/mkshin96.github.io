@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Hello Jekyll!"
+date:   2020-09-27 14:58:08 +0900
+categories: jekyll update
+---
+Hello! My name is `mugon`! 
