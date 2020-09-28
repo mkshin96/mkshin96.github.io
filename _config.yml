@@ -38,13 +38,11 @@ plainwhite:
   search: true
   social_links:
     github: mkshin96
-  gems:
-    - jekyll-seo-tag
-    - jekyll-sitemap
     # linkedIn: in/samarsault # format: locale/username
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 
 
