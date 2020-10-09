@@ -38,7 +38,7 @@ plainwhite:
   search: true
   social_links:
     github: mkshin96
-    # linkedIn: in/samarsault # format: locale/username
+  dark_mode: true
 
 plugins:
   - jekyll-feed
