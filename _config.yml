@@ -41,6 +41,7 @@ plainwhite:
     github: mkshin96
   dark_mode: true
   analytics_id: "UA-180273148-1"
+  disqus_shortname: comments
 
 plugins:
   - jekyll-feed

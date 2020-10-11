@@ -2,6 +2,7 @@
 layout: post
 title:  "[Java] Effectively final"
 date:   2020-10-09 14:58:08 +0900
+comments: true
 categories: java 
 ---
 
