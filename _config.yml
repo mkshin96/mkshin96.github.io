@@ -41,7 +41,8 @@ plainwhite:
     github: mkshin96
   dark_mode: true
   analytics_id: "UA-180273148-1"
-  utterances_shortname: https://mkshin96.github.io
+  utterances_id: mkshin96
+  utterances_repo_name: mkshin96.github.io
   # disqus_shortname: mkshin96-github-io
 
 plugins:
