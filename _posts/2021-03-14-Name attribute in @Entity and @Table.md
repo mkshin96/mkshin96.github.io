@@ -27,5 +27,5 @@ public interface OrderRepository extends JpaRepository<Order, Long> {
 
 테이블은 `ORDERS_TABLE` 로 매핑된다.
 
-![스크린샷 2021-03-14 오후 2.49.09](/Users/smk/Desktop/mkshin96.github.io/images/name_in_table.png)
+![name in table](https://github.com/mkshin96/mkshin96.github.io/blob/master/images/name_in_table.png?raw=true)
 
