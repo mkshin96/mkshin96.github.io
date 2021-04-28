@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Spring @Transactional propagation 옵션"
-date:   2021-04-28 14:58:08 +0900
+title: "Spring @Transactional propagation 옵션"
+date: 2021-04-28 14:58:08 +0900
 categories: Spring
 comments: true 
 ---
 
-`Spring`에서 선언적 트랜잭션이라 불리는 ` @Transactional` 의 여러 가지 옵션 중 `propagation`에 대해 간단하게 정리하려고 한다.
+`Spring`에서 선언적 트랜잭션이라 불리는 `@Transactional` 의 여러 가지 옵션 중 `propagation`에 대해 간단하게 정리하려고 한다.
 
 1. `PROPAGATION_REQUIRED` (**Default**)
    - 트랜잭션이 실행중이라면 해당 트랜잭션에 참여한다. 없다면 트랜잭션을 생성한다.
